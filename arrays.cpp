@@ -10,10 +10,10 @@ int main(){
     cin >> array[5];
     cout << array[5] << endl;
 
-    /* for(int i=-20; i<=20; i++){
+    for(int i=-20; i<=20; i++){
         cout << array[i] << endl;
     }
- */
+
     for(int i : array){
         cout << i << endl;
     }
