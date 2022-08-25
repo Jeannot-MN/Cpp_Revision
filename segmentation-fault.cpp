@@ -13,7 +13,6 @@ int sum(int limit){
 }
 
 int main(){
-
     int limit;
 
     cout << "Enter your number: ";
