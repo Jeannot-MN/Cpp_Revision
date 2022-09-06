@@ -13,7 +13,9 @@ int main(){
 
     node * current = dll->head;
     while(current != NULL){
-        printf("%d\n", current->data);
+        printf("%d\n", *current->data);
         current = current->next;
     }
+
+    return 0;
 }

@@ -28,4 +28,6 @@ int add_data_to_dll(doubly_linked_list *dll, int *data){
 
     dll->tail->next = new_node;
     dll->tail = new_node;
+
+    return 0;
 }
