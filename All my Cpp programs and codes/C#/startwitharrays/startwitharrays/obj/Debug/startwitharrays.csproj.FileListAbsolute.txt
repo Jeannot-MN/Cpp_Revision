@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\startwitharrays\startwitharrays\bin\Debug\startwitharrays.exe.config
+D:\All my Cpp programs and codes\C#\startwitharrays\startwitharrays\bin\Debug\startwitharrays.exe
+D:\All my Cpp programs and codes\C#\startwitharrays\startwitharrays\bin\Debug\startwitharrays.pdb
+D:\All my Cpp programs and codes\C#\startwitharrays\startwitharrays\obj\Debug\startwitharrays.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\startwitharrays\startwitharrays\obj\Debug\startwitharrays.exe
+D:\All my Cpp programs and codes\C#\startwitharrays\startwitharrays\obj\Debug\startwitharrays.pdb

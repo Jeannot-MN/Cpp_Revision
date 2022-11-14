@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\reviewonaray\bin\Debug\reviewonaray.exe.config
+D:\All my Cpp programs and codes\C#\reviewonaray\bin\Debug\reviewonaray.exe
+D:\All my Cpp programs and codes\C#\reviewonaray\bin\Debug\reviewonaray.pdb
+D:\All my Cpp programs and codes\C#\reviewonaray\obj\Debug\reviewonaray.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\reviewonaray\obj\Debug\reviewonaray.exe
+D:\All my Cpp programs and codes\C#\reviewonaray\obj\Debug\reviewonaray.pdb

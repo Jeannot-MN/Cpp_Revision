@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\Try\Try\bin\Debug\Try.exe.config
+D:\All my Cpp programs and codes\C#\Try\Try\bin\Debug\Try.exe
+D:\All my Cpp programs and codes\C#\Try\Try\bin\Debug\Try.pdb
+D:\All my Cpp programs and codes\C#\Try\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\Try\Try\obj\Debug\Try.exe
+D:\All my Cpp programs and codes\C#\Try\Try\obj\Debug\Try.pdb

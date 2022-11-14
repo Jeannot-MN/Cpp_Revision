@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\initialise an array\initialise an array\obj\Debug\initialise an array.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\initialise an array\initialise an array\bin\Debug\initialise an array.exe.config
+D:\All my Cpp programs and codes\C#\initialise an array\initialise an array\bin\Debug\initialise an array.exe
+D:\All my Cpp programs and codes\C#\initialise an array\initialise an array\bin\Debug\initialise an array.pdb
+D:\All my Cpp programs and codes\C#\initialise an array\initialise an array\obj\Debug\initialise an array.exe
+D:\All my Cpp programs and codes\C#\initialise an array\initialise an array\obj\Debug\initialise an array.pdb

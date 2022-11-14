@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\random\random\obj\Debug\random.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\random\random\bin\Debug\random.exe.config
+D:\All my Cpp programs and codes\C#\random\random\bin\Debug\random.exe
+D:\All my Cpp programs and codes\C#\random\random\bin\Debug\random.pdb
+D:\All my Cpp programs and codes\C#\random\random\obj\Debug\random.exe
+D:\All my Cpp programs and codes\C#\random\random\obj\Debug\random.pdb

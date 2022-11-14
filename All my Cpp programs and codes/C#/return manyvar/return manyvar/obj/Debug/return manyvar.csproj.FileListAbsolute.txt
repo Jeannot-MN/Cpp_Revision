@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\return manyvar\return manyvar\obj\Debug\return manyvar.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\return manyvar\return manyvar\bin\Debug\return manyvar.exe.config
+D:\All my Cpp programs and codes\C#\return manyvar\return manyvar\bin\Debug\return manyvar.exe
+D:\All my Cpp programs and codes\C#\return manyvar\return manyvar\bin\Debug\return manyvar.pdb
+D:\All my Cpp programs and codes\C#\return manyvar\return manyvar\obj\Debug\return manyvar.exe
+D:\All my Cpp programs and codes\C#\return manyvar\return manyvar\obj\Debug\return manyvar.pdb

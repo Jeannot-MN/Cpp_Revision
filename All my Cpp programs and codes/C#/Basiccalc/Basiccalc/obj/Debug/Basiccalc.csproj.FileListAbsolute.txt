@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\Basiccalc\Basiccalc\bin\Debug\Basiccalc.exe.config
+D:\All my Cpp programs and codes\C#\Basiccalc\Basiccalc\bin\Debug\Basiccalc.exe
+D:\All my Cpp programs and codes\C#\Basiccalc\Basiccalc\bin\Debug\Basiccalc.pdb
+D:\All my Cpp programs and codes\C#\Basiccalc\Basiccalc\obj\Debug\Basiccalc.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\Basiccalc\Basiccalc\obj\Debug\Basiccalc.exe
+D:\All my Cpp programs and codes\C#\Basiccalc\Basiccalc\obj\Debug\Basiccalc.pdb

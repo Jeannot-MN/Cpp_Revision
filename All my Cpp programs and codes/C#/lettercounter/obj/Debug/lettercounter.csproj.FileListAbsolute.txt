@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\lettercounter\obj\Debug\lettercounter.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\lettercounter\bin\Debug\lettercounter.exe.config
+D:\All my Cpp programs and codes\C#\lettercounter\bin\Debug\lettercounter.exe
+D:\All my Cpp programs and codes\C#\lettercounter\bin\Debug\lettercounter.pdb
+D:\All my Cpp programs and codes\C#\lettercounter\obj\Debug\lettercounter.exe
+D:\All my Cpp programs and codes\C#\lettercounter\obj\Debug\lettercounter.pdb

@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\Jeannot\bin\Debug\Jeannot.exe.config
+D:\All my Cpp programs and codes\Jeannot\bin\Debug\Jeannot.exe
+D:\All my Cpp programs and codes\Jeannot\bin\Debug\Jeannot.pdb
+D:\All my Cpp programs and codes\Jeannot\obj\Debug\Jeannot.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\Jeannot\obj\Debug\Jeannot.exe
+D:\All my Cpp programs and codes\Jeannot\obj\Debug\Jeannot.pdb

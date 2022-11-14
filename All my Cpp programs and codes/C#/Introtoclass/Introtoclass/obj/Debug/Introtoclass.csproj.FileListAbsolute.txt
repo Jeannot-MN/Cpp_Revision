@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\Introtoclass\Introtoclass\obj\Debug\Introtoclass.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\Introtoclass\Introtoclass\bin\Debug\Introtoclass.exe.config
+D:\All my Cpp programs and codes\C#\Introtoclass\Introtoclass\bin\Debug\Introtoclass.exe
+D:\All my Cpp programs and codes\C#\Introtoclass\Introtoclass\bin\Debug\Introtoclass.pdb
+D:\All my Cpp programs and codes\C#\Introtoclass\Introtoclass\obj\Debug\Introtoclass.exe
+D:\All my Cpp programs and codes\C#\Introtoclass\Introtoclass\obj\Debug\Introtoclass.pdb

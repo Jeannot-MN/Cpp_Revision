@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\primeornot\primeornot\bin\Debug\primeornot.exe.config
+D:\All my Cpp programs and codes\C#\primeornot\primeornot\bin\Debug\primeornot.exe
+D:\All my Cpp programs and codes\C#\primeornot\primeornot\bin\Debug\primeornot.pdb
+D:\All my Cpp programs and codes\C#\primeornot\primeornot\obj\Debug\primeornot.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\primeornot\primeornot\obj\Debug\primeornot.exe
+D:\All my Cpp programs and codes\C#\primeornot\primeornot\obj\Debug\primeornot.pdb

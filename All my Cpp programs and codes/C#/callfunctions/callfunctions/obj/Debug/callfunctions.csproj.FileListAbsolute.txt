@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\callfunctions\callfunctions\bin\Debug\callfunctions.exe.config
+D:\All my Cpp programs and codes\C#\callfunctions\callfunctions\bin\Debug\callfunctions.exe
+D:\All my Cpp programs and codes\C#\callfunctions\callfunctions\bin\Debug\callfunctions.pdb
+D:\All my Cpp programs and codes\C#\callfunctions\callfunctions\obj\Debug\callfunctions.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\callfunctions\callfunctions\obj\Debug\callfunctions.exe
+D:\All my Cpp programs and codes\C#\callfunctions\callfunctions\obj\Debug\callfunctions.pdb

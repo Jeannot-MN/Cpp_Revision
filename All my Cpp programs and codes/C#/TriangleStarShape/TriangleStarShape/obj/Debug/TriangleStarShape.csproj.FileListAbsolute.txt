@@ -1,0 +1,6 @@
+D:\All my Cpp programs and codes\C#\TriangleStarShape\TriangleStarShape\bin\Debug\TriangleStarShape.exe.config
+D:\All my Cpp programs and codes\C#\TriangleStarShape\TriangleStarShape\bin\Debug\TriangleStarShape.exe
+D:\All my Cpp programs and codes\C#\TriangleStarShape\TriangleStarShape\bin\Debug\TriangleStarShape.pdb
+D:\All my Cpp programs and codes\C#\TriangleStarShape\TriangleStarShape\obj\Debug\TriangleStarShape.csprojResolveAssemblyReference.cache
+D:\All my Cpp programs and codes\C#\TriangleStarShape\TriangleStarShape\obj\Debug\TriangleStarShape.exe
+D:\All my Cpp programs and codes\C#\TriangleStarShape\TriangleStarShape\obj\Debug\TriangleStarShape.pdb
