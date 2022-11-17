@@ -1,13 +1,15 @@
 #include <iostream>
-#include<vector>
+#include <vector>
 
 using namespace std;
 
-int main(){
-    vector <int> vect {1,2,3,4,5};
+int main()
+{
+    vector<int> vect{1, 2, 3, 4, 5};
 
-    for(int i: vect){
-        cout << i <<endl;
+    for (int i : vect)
+    {
+        cout << i << endl;
     }
 
     cout << vect.at(0) << endl;
